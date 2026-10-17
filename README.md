@@ -9,7 +9,6 @@
 - Diego Ramirez Sanchez
 - Sibilina Alejandra Julian Ramirez
 
-**Reporte en PDF:** [Reporte_RORO_Supreme.pdf](Act4. Memorias e Instrucciones.pdf)
 
 ---
 
