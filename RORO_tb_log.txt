@@ -1,0 +1,13 @@
+VCD info: dumpfile RORO_tb.vcd opened for output.
+PASS suma  12+5      | ins=001000000000 | DD=17 ZF=0
+PASS suma  0+0 (ZF)  | ins=001001100110 | DD=0 ZF=1
+PASS resta 15-6      | ins=011001110111 | DD=9 ZF=0
+PASS resta 9-50 (neg) | ins=011010011001 | DD=4294967255 ZF=0
+PASS resta 2-2 (ZF)  | ins=011010111011 | DD=0 ZF=1
+PASS SLT   8<16 = 1  | ins=011111101110 | DD=1 ZF=0
+PASS SLT   20<4 = 0  | ins=011111111111 | DD=0 ZF=1
+PASS suma  ROMa[3]+ROMina[4] | ins=001000110100 | DD=23 ZF=0
+PASS resta ROMa[4]-ROMina[3] | ins=011001000011 | DD=31 ZF=0
+PASS SLT   ROMa[3]<ROMina[0] | ins=011100110000 | DD=1 ZF=0
+PASS OP invalida     | ins=111100000000 | DD=0 ZF=1
+---- RORO_tb: 11 casos, 0 errores -> TODO PASS
