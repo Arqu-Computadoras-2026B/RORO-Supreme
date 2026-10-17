@@ -1,0 +1,18 @@
+VCD info: dumpfile RORO_Supreme_tb.vcd opened for output.
+PASS dir= 0 | OP=2 | DD=17 (0x00000011) | ZF=0
+PASS dir= 1 | OP=2 | DD=21 (0x00000015) | ZF=0
+PASS dir= 2 | OP=2 | DD=35 (0x00000023) | ZF=0
+PASS dir= 3 | OP=2 | DD=12 (0x0000000c) | ZF=0
+PASS dir= 4 | OP=2 | DD=60 (0x0000003c) | ZF=0
+PASS dir= 5 | OP=2 | DD=48 (0x00000030) | ZF=0
+PASS dir= 6 | OP=6 | DD=0 (0x00000000) | ZF=1
+PASS dir= 7 | OP=6 | DD=9 (0x00000009) | ZF=0
+PASS dir= 8 | OP=6 | DD=51 (0x00000033) | ZF=0
+PASS dir= 9 | OP=6 | DD=4294967255 (0xffffffd7) | ZF=0
+PASS dir=10 | OP=6 | DD=97 (0x00000061) | ZF=0
+PASS dir=11 | OP=6 | DD=0 (0x00000000) | ZF=1
+PASS dir=12 | OP=7 | DD=0 (0x00000000) | ZF=1
+PASS dir=13 | OP=7 | DD=0 (0x00000000) | ZF=1
+PASS dir=14 | OP=7 | DD=1 (0x00000001) | ZF=0
+PASS dir=15 | OP=7 | DD=0 (0x00000000) | ZF=1
+---- RORO_Supreme_tb: 16 casos, 0 errores -> TODO PASS
